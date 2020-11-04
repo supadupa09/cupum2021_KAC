@@ -8,7 +8,7 @@ Pre-processsing data for LiTCoF Analysis
 
 (1) {Removal of words:} We first removed words that were overused but irrelevant such as results  copyright  important  provided  etc.  in addition to conjunctions  adverbs  mathematical symbols and numbers. We then removed relevant but overused words that did not bring much value to the analysis  but ended up skewing results like city  urban and data. The full list of words can be found in 'new_stop_words.txt' in 'src' folder.
 
-(2) {Merging words}: Words that shared the same meaning like \textit{sustainable- sustainability  flooding-flood risk  flexibility-flexible} were merged. Plural and singular versions of the same word were merged.
+(2) {Merging words}: Words that shared the same meaning like sustainable-sustainability, flooding-flood risk  flexibility-flexible were merged. Plural and singular versions of the same word were merged.
  
 (3) {Grouping words:} This was the most important iteration to arrive at richer insights. Based on the preliminary rounds of analysis  we grouped together terms belonging to a single infrastructure sector or system to capture their combined frequencies. This was done in cases where terms on sub-sectors were too dispersed to provide relevant results.
 
