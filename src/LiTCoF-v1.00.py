@@ -413,7 +413,7 @@ for i in np.arange(years.size):
 
 fig, ax = plt.subplots(figsize = (40, 26))
 
-ax = sns.heatmap(heatmap, annot = False,linewidths = .9,cmap = 'Greens' ,cbar_kws={'label': 'Relative Frequency'})
+ax = sns.heatmap(heatmap, annot = False,linewidths = .9,cmap = 'Oranges' ,cbar_kws={'label': 'Relative Frequency'})
 ax.figure.axes[-1].yaxis.label.set_size(35)
 
 
