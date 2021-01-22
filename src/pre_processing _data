@@ -70,7 +70,7 @@
 	technology > technological 
 	rainfall  rain > precipitation 
 	pollutant/s > pollution 
-	subsidence> sinking 
+	subsidence > sinking 
 	country  nation	> national 
 	redundant > redundancy 
 	interdependent > interdependency 
@@ -104,7 +104,6 @@
 	buildings	> building
 	variables	> variable
 	flood-control > dikes  levees  seawalls  protective structures
-	redundant > redundancy
 	interdependent > interdependency
 	agricultural > agriculture
 	efficient  > efficiency
