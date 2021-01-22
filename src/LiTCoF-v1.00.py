@@ -143,7 +143,6 @@ if file_name[-3:] == 'pkl':
 if file_name[-3:] == 'csv':
     datadf = pd.read_csv(file_dir)
 
-
 years = np.array(datadf.Publication_Year)
 
 for i in np.arange(len(datadf.index)):
