@@ -261,7 +261,7 @@ corpus = [dictionary.doc2bow(text) for text in abstrct]
 
 # Compute Perplexity and Coherence scores
 # Good models have low Perplexity and high Coherence scores
-num_of_topics = [5, 10, 15, 20, 25]
+num_of_topics = [5, 10, 15, 20, 25, 30, 40, 50]
 coherence_scores = []
 perplexity_scores = []
 for i in num_of_topics:
@@ -421,8 +421,8 @@ ax.grid(False)
 
 ax.set_yticks(np.arange(len(unqkeys))+0.5) #Adding 0.5 offset
 ax.set_xticks(np.arange(len(years))+0.5)
-ax.set_yticklabels(unqkeys,rotation= 0, fontsize = 34.0)
-ax.set_xticklabels(years,rotation='vertical', fontsize = 35.0)
+ax.set_yticklabels(unqkeys,rotation= 0, fontsize = 50.0)
+ax.set_xticklabels(years,rotation='vertical', fontsize = 50.0)
 ax.set_xlabel('Publication Year', fontsize = 40.0, labelpad = 40)
 ax.set_ylabel('Terms',fontsize = 40.0, labelpad = 5)
 

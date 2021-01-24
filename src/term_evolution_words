@@ -1,6 +1,6 @@
-DRIVERS
+DRIVERS 
 climatechange
-drought
+heat
 socioeconomic
 economic
 emissions
@@ -10,13 +10,13 @@ political
 pollution
 population
 precipitation
-socioeconomic
 subsidence
 technological
 temperature
 flood-risk
 hazard
 waste
+GHG
 
 
 SECTORS
@@ -28,7 +28,7 @@ energy
 health
 housing
 industry
-landuse
+land-use
 renewable
 subsurface
 water
