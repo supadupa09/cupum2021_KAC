@@ -1,71 +1,82 @@
-DRIVERS 
-climatechange
-heat
-socioeconomic
-economic
-emissions
-health
-migration
-political
-pollution
-population
-precipitation
-subsidence
-technological
-temperature
-flood-risk
-hazard
-waste
-GHG
+List of words used for 'Term Evolution'
+
+PRESSURES, IMPACTS AND STATE
+
+1 climate
+2 climate-change
+3 flood-risk
+4 subsidence
+5 DRR
+6 SLR
+7 temperature
+8 precipitation
+9 emissions
+10 ghg
+11 socioeconomic
+13 health
+14 heat
+15 migration
+16 political
+17 pollution
+18 technological
+19 drought
+20 economic
+21 waste
+22 hazard
+23 ecosystem (biodiversity  vegetation  habitat  forest)
+24 environment-quality (air quality water quality)
 
 
 SECTORS
-agriculture
-ecological
-emergency
-flood-control
-energy
-health
-housing
-industry
-land-use
-renewable
-subsurface
-water
-transport
-telecom
-critical-infrastructure
+1 agriculture - farming
+2 transport - roads  railway  rail  port  airports  logistics
+3 energy - power  electricity  fossil fuel
+4 telecommunications
+5 renewable - solar windfarm windmill hydroelectric geothermal biomass  nuclear
+6 flood-control
+7 subsurface underground
+8 ecological
+9 river
+10 housing
+11 water - waterways  stormwater  wastewater  groundwater
+12 population
+13 emergency
+14 health
+15 critical-infrastructure
+16 industry
+17 land-use
 
-PLANNING RESPONSES
-adaptation
-complex
-dynamic
-inclusive
-integrated
-long-term
-mainstream
-mitigation
-nature-based
-resilience
-policy
-scenario
-smart
-spatial
-sustainability
-uncertainty
-spatio-temporal
+RESPONSE > PLANNING APPROACHES
+1 adaptation
+2 mitigation
+3 resilience
+4 long-term
+5 integrated
+6 nature-based
+7 sustainability
+8 dynamic
+9 complex
+10 inclusive
+11 scenario
+12 uncertainty
+13 smart
+14 spatio-temporal
+15 mainstream
+16 policy
+17 urban-form - morphology  urban structure  urban pattern  spatial structure
 
 RESILIENCE CHARACTERISTICS
-autonomous
-collaboration
-context
-diversity
-efficiency
-flexible
-interdependency
-redundancy
-robust
-threshold
-proactive
-self-organi
-decentralized
+1 redundancy
+2 threshold
+3 autonomous 
+4 efficiency 
+5 diversity
+6 collaboration
+7 proactive
+8 contextual
+9 self-organization
+10 interdependency
+11 flexible
+12 robust
+13 decentralized
+
