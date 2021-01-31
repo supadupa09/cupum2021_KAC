@@ -4,91 +4,73 @@ Planning Support Systems for Long-TermClimate Resilience: A critical review
 Search Plan for Grey (non-academic) Literature:
 
 The search plan has been adapted from (Godin, et al., 2015) and has three different complementary searching strategies to minimise risk of omitting relevant sources.
-(1) grey literature databases,
-(2) customized Google search engines,
-(3) targeted websites,
-
 
 (1) grey literature databases
 
 Search terms: "resilience" "urban" "climate" "adaptation" "planning"
 
 The following databases were used:
-(1) Open Knowledge repository World Bank
+(1) Open Knowledge Repository World Bank
 (2) IIHS Knowledge Gateway: https://iihs.co.in/knowledge-gateway/
 (3) ADB Knowledge Institute
-Kennisportaal Kilmaatadaptatie: https://klimaatadaptatienederland.nl/
-Climate Smart GIZ
-Wageningen E-depot
-EU SCIENCE HUB: The European Commission's science and knowledge service
-Stockholm Resilience Center
-Grantham Research Institute on Climate Change
-https://www.eukn.eu/e-library
-https://www.preventionweb.net/english/
-https://urbanresiliencehub.org/the-library/
+(4) Kennisportaal Kilmaatadaptatie: https://klimaatadaptatienederland.nl/
+(5) Climate Smart GIZ
+(6) Wageningen E-depot
+(7) EU SCIENCE HUB: The European Commission's science and knowledge service
+(8) Stockholm Resilience Center
+(9) Grantham Research Institute on Climate Change
+(10) https://www.eukn.eu/e-library
+(11) https://www.preventionweb.net/english/
+(12) https://urbanresiliencehub.org/the-library/
+
+
 (2) customized Google search engines
-creating several search strategies containing multiple combinations of search terms.
-rely on the power of relevancy ranking within Google search engines
-The first 30-40 links of each search’s hits were reviewed, using the title and short text underneath. This number of pages was chosen to capture many of the most relevant hits while still being a feasible amount to screen.
-hand-searching methods used in screening based on ‘inclusion criteria’.
-Search terms used:
-urban resilience
-center for urban / city resilience
-urban climate research
-urban resilience research
-urban climate research institute
-resilience knowledge network
-climate knowledge network
-urban climate adaptation
-city climate adaptation
-policy brief urban resilience
 
-Results excluding the one already analyzed in grey literature databases:
-https://secondnature.org/
-https://www.rockpa.org/
-https://www.itu.int/en/ITU-T/climatechange/resources/Pages/topic-16.aspx
-https://www.iisd.org
-https://www.teriin.org/resilient-cities/resilient-city.php
-http://www.cunysustainablecities.org/about-cisc/reports-repository/
-http://www.bcnuej.org/publications/
-https://www.eib.org/en/publications/
-https://www.mainstreamingclimate.org/subscribe-to-our-newsletter/
-https://www.c40.org/
-http://climateinitiativesplatform.org/
-https://smr-project.eu/fileadmin/user_upload/Documents/Resources/WP_7/policy_brief.pdf
+Search terms used: urban resilience, center for urban / city resilience, urban climate research, urban resilience research, urban climate research institute, resilience knowledge network, climate knowledge network, urban climate adaptation, city climate adaptation, policy brief urban resilience
+
+The following databases were used:
+(1) https://secondnature.org/
+(2) https://www.rockpa.org/
+(3) https://www.itu.int/en/ITU-T/climatechange/resources/Pages/topic-16.aspx
+(4) https://www.iisd.org
+(5) https://www.teriin.org/resilient-cities/resilient-city.php
+(6) http://www.cunysustainablecities.org/about-cisc/reports-repository/
+(7) http://www.bcnuej.org/publications/
+(8) https://www.eib.org/en/publications/
+(8) https://www.mainstreamingclimate.org
+(9)https://www.c40.org/
+(10)http://climateinitiativesplatform.org/
+(11) https://smr-project.eu/fileadmin/user_upload/Documents/Resources/WP_7/policy_brief.pdf
+
+
 (3) Targeted websites
-reviewing published lists of organizations relevant to the research area.
-similar to the hand-searching methods used in screening a journal’s table of contents in systematic review search methods.
+
 Websites scanned excluding the one already analyzed in previous categories:
-https://resilientcitiesnetwork.org/
-https://www.rockefellerfoundation.org/100-resilient-cities/
-https://www.4tu.nl/resilience/resources/?recent=on
-https://www.rand.org/pubs.html
-https://www.gfdrr.org/en/knowledge-hub
-https://mcr2030.undrr.org/:
-DFID
-ICLEI
-ACCRN
-UCCRN
-UNFCC
-Brookings Institute
-Global Center for Adaptation
-https://sustainability.asu.edu/urban-climate/
-https://resilientcitiesnetwork.org/: done
-resiliencetools.org
-ODI
-TERI
-C40 Cities
-World Resources Institute
-UN Climate Change
-OECD: not open access
-potsdam climate research institute
-https://crcl.columbia.edu/
-International Institute for Environment and Development (IIED)
-USAID:
-CDKN
-https://www.globalresiliencepartnership.org/
-https://www.resiliencelinks.org/
+(1) https://resilientcitiesnetwork.org/
+(2)https://www.rockefellerfoundation.org/100-resilient-cities/
+(3)https://www.4tu.nl/resilience/resources/?recent=on
+(4)https://www.rand.org/pubs.html
+(5)https://www.gfdrr.org/en/knowledge-hub
+(6)https://mcr2030.undrr.org/:
+(7)DFID
+(8)ICLEI
+(9)ACCRN
+(10)UNFCC
+(11)Global Center for Adaptation
+(12)https://sustainability.asu.edu/urban-climate/
+(13)resiliencetools.org
+(14)ODI
+(15)World Resources Institute
+(16)UN Climate Change
+(17)OECD: not open access
+(18)potsdam climate research institute
+(19)https://crcl.columbia.edu/
+(20)International Institute for Environment and Development (IIED)
+(21)USAID:
+(22)CDKN
+(23)https://www.globalresiliencepartnership.org/
+(24)https://www.resiliencelinks.org/
 
 
+Reference:
 Godin, K., Stapleton, J., Kirkpatrick, S.I., Hanning, R.M. and Leatherdale, S.T., 2015. Applying systematic review search methods to the grey literature: a case study examining guidelines for school-based breakfast programs in Canada. Systematic reviews, 4(1), p.138.
